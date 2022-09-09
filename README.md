@@ -1,11 +1,8 @@
 ### Hi there 👋
-
-Here are some ideas to get you started:
+## Sou o Douglas, Engenheiro Civil e Programador
 
 - 🔭 I’m currently working on JavaScript, jQuery, HTML, CSS, SQLServer, MySQL, PHP
 - 🌱 I’m currently learning React and NodeJS
-
-## Sou o Douglas, Engenheiro Civil e Programador
 
 <a href="https://github.com/douglasuw">
 <div style="display: inline_block"><br>
