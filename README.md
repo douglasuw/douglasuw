@@ -1,5 +1,5 @@
-### Hi there 👋
-## Sou o Douglas, Engenheiro Civil e Programador
+## Hi there 👋
+### I’m Douglas, Civil Engineer and Web Developer
 
 - 🔭 I’m currently working on JavaScript, jQuery, HTML, CSS, SQLServer, MySQL, PHP
 - 🌱 I’m currently learning React and NodeJS
