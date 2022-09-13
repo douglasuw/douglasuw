@@ -1,7 +1,7 @@
 ## Hi there 👋
 ### I’m Douglas, Civil Engineer and Web Developer
 
-- 🔭 I’m currently working on JavaScript, jQuery, HTML, CSS, SQLServer, MySQL, PHP
+- 🔭 I’m currently working on JavaScript, jQuery, HTML, CSS, SQLServer, MySQL, PHP and Python
 - 🌱 I’m currently learning React and NodeJS
 
 <a href="https://github.com/douglasuw">
