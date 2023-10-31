@@ -5,8 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-Douglas%20Sousa-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglasalexandresousa/)](https://www.linkedin.com/in/douglasalexandresousa/) 
 [![Gmail](https://img.shields.io/badge/-douglasuw@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:douglasuw@gmail.com)](mailto:douglasuw@gmail.com)
 
-#### Technologies and tools I use daily:
-
+#### Technologies and tools I use daily
 ![php](https://img.shields.io/badge/-php-404040?style=for-the-badge&logo=php)
 ![Python](https://img.shields.io/badge/-Python-404040?style=for-the-badge&logo=python)
 ![js](https://img.shields.io/badge/-js-404040?style=for-the-badge&logo=javascript)
