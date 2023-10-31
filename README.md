@@ -17,8 +17,8 @@
 
 ![mysql](https://img.shields.io/badge/-mysql-404040?style=for-the-badge&logo=mysql)
 ![mariadb](https://img.shields.io/badge/-mariadb-404040?style=for-the-badge&logo=mariadb)
-![SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-404040?style=for-the-badge&logo=microsoft-sql-server)
 ![SQLite](https://img.shields.io/badge/-sqlite-404040?style=for-the-badge&logo=sqlite)
+![SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-404040?style=for-the-badge&logo=microsoft-sql-server)
 
 ![npm](https://img.shields.io/badge/-npm-404040?style=for-the-badge&logo=npm)
 ![yarn](https://img.shields.io/badge/-yarn-404040?style=for-the-badge&logo=yarn)
