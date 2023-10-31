@@ -6,9 +6,9 @@
 [![Gmail](https://img.shields.io/badge/-douglasuw@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:douglasuw@gmail.com)](mailto:douglasuw@gmail.com)
 
 #### Technologies and tools I use daily
+![js](https://img.shields.io/badge/-js-404040?style=for-the-badge&logo=javascript)
 ![php](https://img.shields.io/badge/-php-404040?style=for-the-badge&logo=php)
 ![Python](https://img.shields.io/badge/-Python-404040?style=for-the-badge&logo=python)
-![js](https://img.shields.io/badge/-js-404040?style=for-the-badge&logo=javascript)
 ![jQuery](https://img.shields.io/badge/-jquery-404040?style=for-the-badge&logo=jquery)
 ![json](https://img.shields.io/badge/-json-404040?style=for-the-badge&logo=json)
 ![html5](https://img.shields.io/badge/-html5-404040?style=for-the-badge&logo=html5)
