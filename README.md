@@ -1,8 +1,9 @@
 # Douglas Sousa
 
-### Hi there 👋
-- My name is Douglas Sousa
-- I'm civil engineer, and I'm full stack web developer
+### I'm Civil Engineer and Full Stack Web Developer
+
+[![Linkedin](https://img.shields.io/badge/-Douglas%20Sousa-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglasalexandresousa/)](https://www.linkedin.com/in/douglasalexandresousa/) 
+[![Gmail](https://img.shields.io/badge/-douglasuw@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:douglasuw@gmail.com)](mailto:douglasuw@gmail.com)
 
 #### Technologies and tools I use daily:
 
