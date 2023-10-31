@@ -41,12 +41,12 @@
 ![node.js](https://img.shields.io/badge/-node.js-404040?style=for-the-badge&logo=node.js)
 ![next.js](https://img.shields.io/badge/-next.js-404040?style=for-the-badge&logo=next.js)
 ![nest.js](https://img.shields.io/badge/-nest.js-404040?style=for-the-badge&logo=nestjs)
-![Vercel](https://img.shields.io/badge/-vercel-404040?style=for-the-badge&logo=vercel)
 
 ![mongodb](https://img.shields.io/badge/-mongodb-404040?style=for-the-badge&logo=mongodb)
 ![docker](https://img.shields.io/badge/-docker-404040?style=for-the-badge&logo=docker)
 ![amazonaws](https://img.shields.io/badge/-amazon%20aws-404040?style=for-the-badge&logo=amazonaws)
 ![azure](https://img.shields.io/badge/-azure-404040?style=for-the-badge&logo=microsoft-azure)
+![Vercel](https://img.shields.io/badge/-vercel-404040?style=for-the-badge&logo=vercel)
 
 #### Interests
 ![react native](https://img.shields.io/badge/-React%20Native-404040?style=for-the-badge&logo=react)
