@@ -12,13 +12,14 @@
 ![js](https://img.shields.io/badge/-js-404040?style=for-the-badge&logo=javascript)
 ![jQuery](https://img.shields.io/badge/-jquery-404040?style=for-the-badge&logo=jquery)
 ![json](https://img.shields.io/badge/-json-404040?style=for-the-badge&logo=json)
+![html5](https://img.shields.io/badge/-html5-404040?style=for-the-badge&logo=html5)
+![css3](https://img.shields.io/badge/-css3-404040?style=for-the-badge&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-404040?style=for-the-badge&logo=bootstrap)
+
 ![mysql](https://img.shields.io/badge/-mysql-404040?style=for-the-badge&logo=mysql)
 ![mariadb](https://img.shields.io/badge/-mariadb-404040?style=for-the-badge&logo=mariadb)
 ![SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-404040?style=for-the-badge&logo=microsoft-sql-server)
 ![SQLite](https://img.shields.io/badge/-sqlite-404040?style=for-the-badge&logo=sqlite)
-![html5](https://img.shields.io/badge/-html5-404040?style=for-the-badge&logo=html5)
-![css3](https://img.shields.io/badge/-css3-404040?style=for-the-badge&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-404040?style=for-the-badge&logo=bootstrap)
 
 ![npm](https://img.shields.io/badge/-npm-404040?style=for-the-badge&logo=npm)
 ![yarn](https://img.shields.io/badge/-yarn-404040?style=for-the-badge&logo=yarn)
@@ -62,7 +63,6 @@
 #### Development with programming languages:
 - on-demand software
 - asset management systems
-- project control system
 - SaaS and MicroSaaS
 
 #### Creation with WordPress and Elementor:
