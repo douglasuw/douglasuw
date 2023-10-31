@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 - My name is Douglas Sousa
-- I'm civil engineering, and I'm full stack web developer
+- I'm civil engineer, and I'm full stack web developer
 
 #### Technologies and tools I use daily:
 
@@ -23,21 +23,25 @@
 ![github](https://img.shields.io/badge/-github-404040?style=for-the-badge&logo=github)
 ![vscode](https://img.shields.io/badge/-vscode-404040?style=for-the-badge&logo=visualstudiocode&logoColor=4da6ff)
 ![visualstudio](https://img.shields.io/badge/-visualstudio-404040?style=for-the-badge&logo=visualstudio&logoColor=b366ff)
+
 ![figma](https://img.shields.io/badge/-figma-404040?style=for-the-badge&logo=figma)
 ![wordpress](https://img.shields.io/badge/-wordpress-404040?style=for-the-badge&logo=wordpress)
 ![elementor](https://img.shields.io/badge/-elementor-404040?style=for-the-badge&logo=elementor)
 
 #### Learning at the moment
 ![typescript](https://img.shields.io/badge/-typescript-404040?style=for-the-badge&logo=typescript)
-![react](https://img.shields.io/badge/-react-404040?style=for-the-badge&logo=react)
+![react.js](https://img.shields.io/badge/-react.js-404040?style=for-the-badge&logo=react)
 ![node.js](https://img.shields.io/badge/-node.js-404040?style=for-the-badge&logo=node.js)
-![next](https://img.shields.io/badge/-next.js-404040?style=for-the-badge&logo=next.js)
-![nest](https://img.shields.io/badge/-nest.js-404040?style=for-the-badge&logo=nestjs)
+![next.js](https://img.shields.io/badge/-next.js-404040?style=for-the-badge&logo=next.js)
+![nest.js](https://img.shields.io/badge/-nest.js-404040?style=for-the-badge&logo=nestjs)
+
 ![mongodb](https://img.shields.io/badge/-mongodb-404040?style=for-the-badge&logo=mongodb)
 ![docker](https://img.shields.io/badge/-docker-404040?style=for-the-badge&logo=docker)
+![amazonaws](https://img.shields.io/badge/-amazon%20aws-404040?style=for-the-badge&logo=amazonaws)
+![azure](https://img.shields.io/badge/-azure-404040?style=for-the-badge&logo=microsoft-azure)
 
 #### Interests
-![react](https://img.shields.io/badge/-React%20Native-404040?style=for-the-badge&logo=react)
+![react native](https://img.shields.io/badge/-React%20Native-404040?style=for-the-badge&logo=react)
 ![three.js](https://img.shields.io/badge/-three.js-404040?style=for-the-badge&logo=three.js)
 ![Rollup](https://img.shields.io/badge/-rollup-404040?style=for-the-badge&logo=rollup.js)
 ![prisma](https://img.shields.io/badge/-prisma-404040?style=for-the-badge&logo=prisma)
