@@ -35,6 +35,8 @@
 ![Github Pages](https://img.shields.io/badge/-github%20pages-404040?style=for-the-badge&logo=github)
 
 #### Learning at the moment
+![three.js](https://img.shields.io/badge/-three.js-404040?style=for-the-badge&logo=three.js)
+![Rollup](https://img.shields.io/badge/-rollup-404040?style=for-the-badge&logo=rollup.js)
 ![typescript](https://img.shields.io/badge/-typescript-404040?style=for-the-badge&logo=typescript)
 ![TailwindCSS](https://img.shields.io/badge/-tailwind%20css-404040?style=for-the-badge&logo=tailwind-css)
 ![react.js](https://img.shields.io/badge/-react.js-404040?style=for-the-badge&logo=react)
@@ -50,8 +52,6 @@
 
 #### Interests
 ![react native](https://img.shields.io/badge/-React%20Native-404040?style=for-the-badge&logo=react)
-![three.js](https://img.shields.io/badge/-three.js-404040?style=for-the-badge&logo=three.js)
-![Rollup](https://img.shields.io/badge/-rollup-404040?style=for-the-badge&logo=rollup.js)
 ![prisma](https://img.shields.io/badge/-prisma-404040?style=for-the-badge&logo=prisma)
 ![Insomnia](https://img.shields.io/badge/-insomnia-404040?style=for-the-badge&logo=insomnia)
 ![Laravel](https://img.shields.io/badge/-laravel-404040?style=for-the-badge&logo=laravel)
