@@ -34,22 +34,22 @@
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-404040?style=for-the-badge&logo=Cloudflare)
 ![Github Pages](https://img.shields.io/badge/-github%20pages-404040?style=for-the-badge&logo=github)
 
-#### Learning at the moment
 ![react.js](https://img.shields.io/badge/-react.js-404040?style=for-the-badge&logo=react)
 ![node.js](https://img.shields.io/badge/-node.js-404040?style=for-the-badge&logo=node.js)
-![next.js](https://img.shields.io/badge/-next.js-404040?style=for-the-badge&logo=next.js)
-![nest.js](https://img.shields.io/badge/-nest.js-404040?style=for-the-badge&logo=nestjs)
-
-![three.js](https://img.shields.io/badge/-three.js-404040?style=for-the-badge&logo=three.js)
-![Rollup](https://img.shields.io/badge/-rollup-404040?style=for-the-badge&logo=rollup.js)
 ![typescript](https://img.shields.io/badge/-typescript-404040?style=for-the-badge&logo=typescript)
 ![TailwindCSS](https://img.shields.io/badge/-tailwind%20css-404040?style=for-the-badge&logo=tailwind-css)
+![Vercel](https://img.shields.io/badge/-vercel-404040?style=for-the-badge&logo=vercel)
+
+#### Learning at the moment
+![next.js](https://img.shields.io/badge/-next.js-404040?style=for-the-badge&logo=next.js)
+![nest.js](https://img.shields.io/badge/-nest.js-404040?style=for-the-badge&logo=nestjs)
+![three.js](https://img.shields.io/badge/-three.js-404040?style=for-the-badge&logo=three.js)
+![Rollup](https://img.shields.io/badge/-rollup-404040?style=for-the-badge&logo=rollup.js)
 
 ![mongodb](https://img.shields.io/badge/-mongodb-404040?style=for-the-badge&logo=mongodb)
 ![docker](https://img.shields.io/badge/-docker-404040?style=for-the-badge&logo=docker)
 ![amazonaws](https://img.shields.io/badge/-amazon%20aws-404040?style=for-the-badge&logo=amazonaws)
 ![azure](https://img.shields.io/badge/-azure-404040?style=for-the-badge&logo=microsoft-azure)
-![Vercel](https://img.shields.io/badge/-vercel-404040?style=for-the-badge&logo=vercel)
 
 #### Interests
 ![react native](https://img.shields.io/badge/-React%20Native-404040?style=for-the-badge&logo=react)
