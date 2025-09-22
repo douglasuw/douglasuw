@@ -4,7 +4,7 @@
 
 [![Linkedin](https://img.shields.io/badge/-Douglas%20Sousa-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglasalexandresousa/)](https://www.linkedin.com/in/douglasalexandresousa/) 
 [![Gmail](https://img.shields.io/badge/-douglasuw@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:douglasuw@gmail.com)](mailto:douglasuw@gmail.com)
-[![Instagram](https://img.shields.io/badge/-douglasbonatelli-515BD4?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/douglasbonatelli)](https://instagram.com/douglasbonatelli)
+[comment]: [![Instagram](https://img.shields.io/badge/-douglasbonatelli-515BD4?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/douglasbonatelli)](https://instagram.com/douglasbonatelli)
 
 #### Technologies and tools I use daily
 ![js](https://img.shields.io/badge/-js-404040?style=for-the-badge&logo=javascript)
