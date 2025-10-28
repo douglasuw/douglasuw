@@ -19,6 +19,7 @@
 ![mariadb](https://img.shields.io/badge/-mariadb-404040?style=for-the-badge&logo=mariadb)
 ![SQLite](https://img.shields.io/badge/-sqlite-404040?style=for-the-badge&logo=sqlite)
 ![SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-404040?style=for-the-badge&logo=microsoft-sql-server)
+![amazonaws](https://img.shields.io/badge/-amazon%20aws-404040?style=for-the-badge&logo=amazonaws)
 
 ![npm](https://img.shields.io/badge/-npm-404040?style=for-the-badge&logo=npm)
 ![yarn](https://img.shields.io/badge/-yarn-404040?style=for-the-badge&logo=yarn)
@@ -34,6 +35,7 @@
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-404040?style=for-the-badge&logo=Cloudflare)
 ![Github Pages](https://img.shields.io/badge/-github%20pages-404040?style=for-the-badge&logo=github)
 
+![next.js](https://img.shields.io/badge/-next.js-404040?style=for-the-badge&logo=next.js)
 ![react.js](https://img.shields.io/badge/-react.js-404040?style=for-the-badge&logo=react)
 ![node.js](https://img.shields.io/badge/-node.js-404040?style=for-the-badge&logo=node.js)
 ![typescript](https://img.shields.io/badge/-typescript-404040?style=for-the-badge&logo=typescript)
@@ -41,14 +43,12 @@
 ![Vercel](https://img.shields.io/badge/-vercel-404040?style=for-the-badge&logo=vercel)
 
 #### Learning at the moment
-![next.js](https://img.shields.io/badge/-next.js-404040?style=for-the-badge&logo=next.js)
 ![nest.js](https://img.shields.io/badge/-nest.js-404040?style=for-the-badge&logo=nestjs)
 ![three.js](https://img.shields.io/badge/-three.js-404040?style=for-the-badge&logo=three.js)
 ![Rollup](https://img.shields.io/badge/-rollup-404040?style=for-the-badge&logo=rollup.js)
 
 ![mongodb](https://img.shields.io/badge/-mongodb-404040?style=for-the-badge&logo=mongodb)
 ![docker](https://img.shields.io/badge/-docker-404040?style=for-the-badge&logo=docker)
-![amazonaws](https://img.shields.io/badge/-amazon%20aws-404040?style=for-the-badge&logo=amazonaws)
 ![azure](https://img.shields.io/badge/-azure-404040?style=for-the-badge&logo=microsoft-azure)
 
 #### Interests
